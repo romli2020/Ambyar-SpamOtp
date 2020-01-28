@@ -2,10 +2,9 @@
 /*
 * Name : Simple Spam Otp
 * File : s-spamOtp.php
-* Author : DulLah
+* Editor : Cyberk4nd4S
 * Github : https://github.com/dz-id
-* Telegram : https://t.me/unikers
-* Date : 26-01-2020
+* Date : 28-01-2020
 * Version : 1.0
 */
 
@@ -14,7 +13,7 @@ include("src/version.php");
 include("src/otp.php");
 
 echo " \e[96m\n\n
-   ⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤
+⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤
 ⣿⠀⠀⣿⢱⣾⠉⣿⢱⢾⠑⣾⠉⣿⢱⣾⢱⡇⣿⣾⢱⠀⠀⣿
 ⣿⠀⠀⣿⠁⣿⣉⣿⢱⢄⡷⣿⣉⣿⡱⣿⢹⢌⡿⣿⢹⠀⠀⣿
 ⣿⢛⢛⢛⢛⢛⢛⢛⢛⢛⢛⡛⢛⡛⡛⡛⡛⡛⡛⡛⡛⡛⡛⣿
