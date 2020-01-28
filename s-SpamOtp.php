@@ -34,7 +34,7 @@ echo " \e[96m\n\n
    \e[0m
 \e[92m*-------------------------------------------*\e[0m
   Editor   : Cyberk4nd4S
-  Github   : https://github.com/Cyberk4nd4S/Ambyar-SpamOtp
+  Github   : https://github.com/Cyberk4nd4S/
   Date     : 28-01-2020
   Version  : 1.0
 \e[92m*-------------------------------------------*\e[0m\n
