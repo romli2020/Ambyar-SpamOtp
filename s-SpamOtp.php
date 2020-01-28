@@ -47,7 +47,7 @@ echo " \e[96m\n\n
   \e[92m07\e[0m. Spam Otp CodaShopTsel\n\n";
 
 try {
-	echo "\e[96m[+] \e[91K4nd4S\e[0m/> ";
+	echo "\e[96m[+] \e[91KK4nd4S\e[0m/> ";
 	$choice = trim(fgets(STDIN));
 	$spam = new SimpleSpam\Otp();
 
