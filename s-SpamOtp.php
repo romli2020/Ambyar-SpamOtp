@@ -3,7 +3,7 @@
 * Name : Simple Spam Otp
 * File : s-spamOtp.php
 * Editor : Cyberk4nd4S
-* Github : https://github.com/dz-id
+* Github : https://github.com/Cyberk4nd4S
 * Date : 28-01-2020
 * Version : 1.0
 */
@@ -47,7 +47,7 @@ echo " \e[96m\n\n
   \e[92m07\e[0m. Spam Otp CodaShopTsel\n\n";
 
 try {
-	echo "\e[96m[+] \e[91Cyberk4nd4S\e[0m/> ";
+	echo "\e[96m[+] \e[91K4nd4S\e[0m/> ";
 	$choice = trim(fgets(STDIN));
 	$spam = new SimpleSpam\Otp();
 
