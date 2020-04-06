@@ -1,7 +1,7 @@
 <div>
 </div>
 <h3>Install :</h3>
-pkg update && upgrade
+pkg update && upgrade <br>
 pkg install php <br>
 pkg install git <br>
 git clone https://github.com/Cyberk4nd4S/Ambyar-SpamOtp
